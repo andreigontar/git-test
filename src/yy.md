@@ -1,2 +1,4 @@
 - main .md
 - stash
+
+- squash
