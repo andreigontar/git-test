@@ -1,1 +1,1 @@
-- ts .md
+- main .md
