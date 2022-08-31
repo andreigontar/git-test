@@ -2,3 +2,4 @@
 - stash
 
 - squash
+- squash_2
